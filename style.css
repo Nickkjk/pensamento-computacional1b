@@ -2,7 +2,7 @@ body{
     text-align: center;
     background-color: #090c0e;
     color: #FFFFFF;
-
+    font-family: 'Josefin Sans', sans-serif;
 }
 #Id
 <img id = "imagem"  src="nickeyui.png">
@@ -15,7 +15,7 @@ body{
 h1{
   height: 150px;
   
-    color:#ffffff;
+    color:#8b0000;
         
   
   background-color: #090c0e;
